@@ -16,7 +16,7 @@ so the # is sub-sub headings? whatever it would be called. good to know.
 
 # Vom-Bomb!.com
 
-## Purpose:
+## Purpose
 To promote and sell my music and other goods (guitar pedals, shirts?)
 Personal blog (in a less-traditional sense)
 ...
